@@ -68,12 +68,12 @@ Beyond programming, I have a strong interest in UI/UX design, video editing, and
 
 </div>
 
-***Github Stats***
+<!--***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 <p align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Usman's streak" src="https://github-readme-streak-stats.herokuapp.com?user=UsmanKtk0&theme=dark&mode=weekly">
-</p>
+</p>-->
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
