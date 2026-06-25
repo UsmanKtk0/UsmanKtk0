@@ -6,7 +6,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/Ikyo4TNzZowAAAAd/cat-cats.gif"/>
 
-I am a 7th semester Software Engineering Student @IIUI with Java as my go-to programming language. I enjoy building desktop applications, designing intuitive user interfaces, and exploring modern software development practices. My interests include Java, JavaFX, Swing, Spring Boot and Python. I am passionate about continuously learning, developing practical projects, and staying current with industry trends. <br>
+I am a final year Software Engineering Student @IIUI with Java as my go-to programming language. I enjoy building desktop applications, designing intuitive user interfaces, and exploring modern software development practices. My interests include Java, JavaFX, Swing, Spring Boot and Python. I am passionate about continuously learning, developing practical projects, and staying current with industry trends. <br>
 Beyond programming, I have a strong interest in UI/UX design, video editing, and open-source technologies. I regularly explore new tools, frameworks, and development practices to improve my technical skills and development workflow.
 <br><br>
 
